@@ -29,7 +29,7 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://periwinkle-key-800.notion.site/Hello-I-m-JeongWonwoo-2b7689b9e7d280dc9c4bf8cfb796a32e?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://periwinkle-key-800.notion.site/Hello-I-m-JeongWonwoo-2b7689b9e7d280dc9c4bf8cfb796a32e?source=copy_link"> </a>
+    <div style="text-align: left;"> 
          <a href=mailto:zkjjx12@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:zkjjx12@gmail.com"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
